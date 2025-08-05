@@ -24,7 +24,6 @@ Our work aims to advance deepfake detection by introducing a structured multi-ta
 - [Dataset Structure](#dataset structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Citation](#citation)
 
 ## Method Overview
 
@@ -124,13 +123,3 @@ The core code will be published after peer review process.
 Currently, you can:
 - Refer to [docs/](docs/) for method descriptions and FAQs.
 - Download example configuration files from [configs/](configs/).
-
-## Citation
-
-If you find this work useful, please consider citing **our paper** after its official publication.
-
-
-
----
-
-根据具体情况，你可以在文档中适当增加/chinese说明，比如用中英文都写一遍。如需中文说明，告诉我即可。
