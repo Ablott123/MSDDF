@@ -21,7 +21,7 @@ Our work aims to advance deepfake detection by introducing a structured multi-ta
 - [Status](#status)
 - [Table of Contents](#table-of-contents)
 - [Method Overview](#method-overview)
-- [Dataset Structure](#dataset structure)
+- [Dataset Structure](#dataset-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
 
