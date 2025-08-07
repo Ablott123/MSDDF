@@ -1,11 +1,11 @@
-# MSDDF: Leveraging Structured Multi-Task Supervision and High-Quality Synthesis for Deepfake Generalization
+# MSDDF: Leveraging Multi-Task Adversarial Training and Twin Image Generation for Deepfake Generalization
 
 > **Note: This project is still under submission and the core codes are being prepared. We will release more details and the complete implementation upon paper acceptance. Stay tuned!**
 
 ## Introduction
 
 This repository contains the code and resources for our paper:  
-**"MSDDF: Leveraging Structured Multi-Task Supervision and High-Quality Synthesis for Deepfake Generalization"**.
+**"{MSDDF: Leveraging Multi-Task Adversarial Training and Twin Image Generation for Deepfake Generalization"**.
 
 Our work aims to advance deepfake detection by introducing a structured multi-task learning framework and a novel, high-quality data synthesis pipeline. MSDDF is designed to enhance generalization and robustness across various manipulation methods.
 
@@ -33,10 +33,10 @@ Our work aims to advance deepfake detection by introducing a structured multi-ta
 - **Multi-Strategy Dynamic Blender:**  
   Our flexible blending module integrates classic blending and a novel dynamic weighted approach to simulate diverse and realistic forgery patterns, greatly enriching training data diversity.
 
-- **Multi-Task Adversarial Supervision:**  
+- **Multi-Task Adversarial Training:**  
   We design a multi-task adversarial learning framework where the discriminator predicts manipulation attributes (region, type, strength), enabling the model to learn generalizable and manipulation-invariant features.
 
-- **Extensive Validation:**  
+- **Comprehensive Empirical Validation:**  
   Experiments on public datasets show that MSDDF achieves superior generalization and robustness compared to state-of-the-art methods.
 
 ## Dataset Structure
