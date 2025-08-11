@@ -1,11 +1,11 @@
-# MSDDF: Leveraging Multi-Task Adversarial Training and Twin Image Generation for Deepfake Generalization
+# MSDDF: A Multi-Strategy Deepfake Detection Framework for improving Generalization
 
 > **Note: This project is still under submission and the core codes are being prepared. We will release more details and the complete implementation upon paper acceptance. Stay tuned!**
 
 ## Introduction
 
 This repository contains the code and resources for our paper:  
-**"{MSDDF: Leveraging Multi-Task Adversarial Training and Twin Image Generation for Deepfake Generalization"**.
+**"{MSDDF: A Multi-Strategy Deepfake Detection Framework for improving Generalization"**.
 
 Our work aims to advance deepfake detection by introducing a structured multi-task learning framework and a novel, high-quality data synthesis pipeline. MSDDF is designed to enhance generalization and robustness across various manipulation methods.
 
